@@ -1,0 +1,5 @@
+#!/bin/bash
+#Proba stworzenia skryptu
+cd
+cd Downloads
+java -jar SystemDoZarzadzaniaSUM.jar
